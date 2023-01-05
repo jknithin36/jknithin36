@@ -1,5 +1,5 @@
 - 👋 Hi, I’m J.K.Nithin Kumar
-- 👀 I’m interested in Computer Programming
+- 👀 I’m interested in ?..........?
 - 🌱 I’m currently learning .....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jknithin6029@gmail.com
