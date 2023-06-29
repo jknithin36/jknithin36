@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithin</h1>
 <h3 align="center">I’m interested in ?..........?</h3>
 
-<p align="left"> <a href="https://twitter.com/jknithin3" target="blank"><img src="https://img.shields.io/twitter/follow/jknithin3?logo=twitter&style=for-the-badge" alt="jknithin3" /></a> </p>
-
 - 🔭 I’m currently working on [.............?](https://github.com/jknithin36/6b3a5b5ea4d70142de0071ec8a6f7e96f58d306f44ae1793003b43efcccae5ab)
 
 - 🌱 I’m currently learning **...........**
@@ -10,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jknithin36](https://github.com/jknithin36)
 
 - 📫 How to reach me **Jknithin6029@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/jknithin36/Resume/blob/main/RESUME.pdf](https://github.com/jknithin36/Resume/blob/main/RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
