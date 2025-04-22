@@ -1,16 +1,28 @@
 <h1 align="center">Hi 👋, I'm J.K. Nithin Kumar</h1>
+
 <p align="center">
-  ❤️ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" height="20" /> 
+  ❤️  
 </p>
-<p>🎯 Leraning</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,figma,threejs" />
+</p>
 
 ---
 
-🎓 **Master's Student 
-💻 **Full-Stack Developer** | JavaScript, TypeScript, Python  
-🌐 Building for Web & Mobile | React ⚡ Next.js ⚡ React Native  
-🎯 
-📫 Reach me: [nithinkumarjk1@gmail.com](mailto:nithinkumarjk1@gmail.com)
+### 🎯 Focusing
+
+---
+
+### 🎓 Education
+- **Master's in Computer Science** @ Kent State University 
+
+---
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+
+
+📫 **Reach me at:** [nithinkumarjk1@gmail.com](mailto:nithinkumarjk1@gmail.com)
 
 ---
 
@@ -26,10 +38,21 @@
 - **Auth & APIs:** NextAuth, REST, GraphQL  
 - **Cloud:** Cloudinary, Vercel, GitHub Actions
 
+---
 
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jknithin36&hide=css,c,xslt&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jknithin36&hide=css,c,xslt&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jknithin36&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jknithin36&theme=radical" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=jknithin36&theme=radical&column=7&no-frame=true" />
+  <br />
+  
+
+</p>
 
 ---
 
