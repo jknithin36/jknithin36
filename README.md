@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm J.K. Nithin Kumar</h1>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" height="20" /> Software Developer | MERN Stack | React Native | Next.js | Big Data
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" height="20" /> Love JS
 </p>
 
 ---
