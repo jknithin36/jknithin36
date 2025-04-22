@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm J.K. Nithin Kumar</h1>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" height="20" /> Love JS
+  
+  ❤️ <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" height="20" /> 
 </p>
 
 ---
 
-🎓 **Master's in Computer Science** @ Kent State University (GPA: 4.0)  
+🎓 **Master's Student 
 💻 **Full-Stack Developer** | JavaScript, TypeScript, Python  
 🌐 Building for Web & Mobile | React ⚡ Next.js ⚡ React Native  
 🎯 Currently working on: **SceneIt** - a full-stack movie review platform  
