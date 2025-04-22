@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jknithin36&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jknithin36&hide=css,c,xslt&layout=compact&theme=radical)
 
 ---
 
