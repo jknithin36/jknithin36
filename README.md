@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,tailwind,figma,threejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,threejs" />
 </p>
 
 ---
