@@ -44,7 +44,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jknithin36&hide=css,c,xslt&layout=compact&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jknithin36&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jknithin36&theme=radical" />
   <br />
